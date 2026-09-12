@@ -59,8 +59,10 @@ I love you💜🫂
     title: "our memories",
     images: [
       { src: "/images/placeholder-3.jpg", label: "" },
-      { src: "/images/placeholder-4.jpg",  label: "" },
+      { src: "/images/placeholder-4.jpg", label: "" },
       { src: "/images/placeholder-5.jpg", label: "" },
+      { src: "/images/placeholder-2.jpg",  label: "" },
+      { src: "/images/placeholder-1.jpg", label: "" },
     ],
     returnButton: "RETURN"
   },
